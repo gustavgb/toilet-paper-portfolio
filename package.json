@@ -1,0 +1,24 @@
+{
+  "name": "toilet-paper-portfolio",
+  "version": "1.0.0",
+  "description": "This is gonna be crazy",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavgb/toilet-paper-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavgb/toilet-paper-portfolio/issues"
+  },
+  "homepage": "https://github.com/gustavgb/toilet-paper-portfolio#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
